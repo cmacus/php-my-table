@@ -1,7 +1,7 @@
 # phpMyTable
 A PHP class which provides a live editable interface to a MySQL table.
 
-![phpMyTable screenshot](screenshot_pmt.png)
+![phpMyTable screenshot](screenshot_pmt_2.png)
 
 ## Usage
 1. Download the zip and extract in a subfolder of www (i.e. www/apps); there should be two folders pmt and dropdown
